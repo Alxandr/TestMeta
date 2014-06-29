@@ -6,6 +6,11 @@
     "configurations" : {
         "net45" : { 
             "dependencies": {
+                "System.Collections" : "",
+                "System.IO": "",
+                "System.Runtime" : "",
+                "System.Xml": "",
+                "System.Xml.Linq": ""
             }
         }
     }
