@@ -1,0 +1,17 @@
+﻿{
+    "dependencies": {
+    },
+
+    "meta":  [
+        {"name": "Meta", "type":  "Processor"}
+    ],
+
+    "configurations" : {
+        "net45" : { },
+        "k10" : { 
+            "dependencies": {
+                "System.Console": "4.0.0.0"
+            }
+        }
+    }
+}
